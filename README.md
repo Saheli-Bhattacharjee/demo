@@ -1,3 +1,4 @@
 # demo
-This is my first Git Repository
-Author-Saheli Bhattacharjee
+This is my first Git Repository.
+<br>
+Author-Saheli Bhattacharjee.
